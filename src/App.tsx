@@ -24,7 +24,6 @@ export default App;
 
 const Container = styled.div`
   width: 100%;
-  outline: 1px red solid;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
